@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.headphons {
+ /* /* margin: 124px auto; */
+ text-align: center; */
+ position: relative;
+}
+.content {
+    width: 100%;
+    position: absolute;
+    top: 35%;
+    color: rgba(3, 3, 3, 0.801);
+    line-height: 30px;
+
+}
+.content h2 {
+    font-size: 30px;
+    margin-top: 35px;
+    padding-bottom: 15px;
+   right: 50px;
+}
+.content h4 {
+    font-weight: bold;
+    position: absolute;
+    right: 350px;
+    bottom: -210px;
+    font-size: 20px;
+}
+
+.photo {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient();
+    background-size: cover;
+    background-position: center;
+}
